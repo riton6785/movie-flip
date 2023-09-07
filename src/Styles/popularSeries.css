@@ -1,0 +1,13 @@
+.popular_page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .popular_page_main_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  }
+  

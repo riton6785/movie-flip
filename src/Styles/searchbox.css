@@ -1,0 +1,18 @@
+.searchbox{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchbox input{
+    width: 70%;
+    padding: 4px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+
+}
+#btn_search {
+    font-size: 20px; 
+    border: none;
+  }

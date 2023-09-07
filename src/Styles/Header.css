@@ -1,0 +1,47 @@
+.completeHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 10;
+    margin-right: 5%;
+  }
+  
+  .navigation a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-size: 1.5rem;
+  }
+  .navigation a:hover {
+    color: #FFA500; /* Complementary color */
+  }
+  
+  .login_signup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+  }
+  
+  .login_signup a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-size: 1.5rem;
+  }
+  .login_signup a:hover {
+    color: #FFA500; /* Complementary color */
+  }
+  
+  
+  

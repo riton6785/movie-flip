@@ -1,0 +1,20 @@
+.basic_info{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.image >img{
+    width: 100%;
+    height: 40%;
+    border: 2px solid black;
+    padding: 5px;   
+    margin: 10px;
+}
+.basic_content{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid green;
+    margin: 2px;
+    padding: 50px;
+    width: 100%;
+}
